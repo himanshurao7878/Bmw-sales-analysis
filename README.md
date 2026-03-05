@@ -22,18 +22,6 @@ Do BMW sales show seasonal patterns?
 * Seaborn
 * Google Colab
 
-## Project Structure
-
-bmw-sales-analysis
-│
-├── BMW_sales_analysis.ipynb
-├── requirements.txt
-├── README.md
-│
-└── data
-  └── BMW_sales_data.csv
-
-
 ## How to Run
 
 Install dependencies:
@@ -43,3 +31,4 @@ pip install -r requirements.txt
 Run the notebook:
 
 Open BMW_sales_analysis.ipynb in Jupyter Notebook or Google Colab.
+
